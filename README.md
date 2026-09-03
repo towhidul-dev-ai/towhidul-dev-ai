@@ -91,13 +91,6 @@ Here are some areas I'm currently building projects in:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=towhidul-dev-ai&show_icons=true&locale=en" alt="Towhidul's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhidul-dev-ai&layout=compact&locale=en" alt="Most Used Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai" alt="GitHub Streak" />
