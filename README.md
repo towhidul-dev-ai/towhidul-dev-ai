@@ -102,9 +102,10 @@ Here are some areas I'm currently building projects in:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -118,6 +119,8 @@ Here are some areas I'm currently building projects in:
 - 🧠 Improve problem-solving and algorithmic thinking
 - 🌍 Build and deploy real-world projects
 - 🤝 Contribute to open-source projects
+
+  
 
 <p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
 
