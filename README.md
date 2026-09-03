@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&height=50&lines=Frontend+Developer;React+%26+Node.js+Developer;AI+%26+Machine+26%+Learning+Enthusiast;Passionate+About+Software+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&height=50&lines=Frontend+Developer;React+%26+Node.js+Developer;AI+%26+Machine+Learning+Enthusiast;Passionate+About+Software+Engineering"
     alt="Typing SVG"
   />
 </p>
@@ -139,9 +139,8 @@ Currently building projects around:
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai&theme=dark" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🎯 2026 Goals
