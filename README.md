@@ -149,7 +149,7 @@ Currently building projects around:
 <p align="center">
   <img
     width="55%"
-    src="./profile/top-langs.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhidul-dev-ai&layout=compact&theme=default"
     alt="Most Used Languages"
   />
 </p>
