@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/Developer.png" alt="My Banner" width="100%">
+</p>
+
+
 # Hi 👋, I'm Towhidul Islam Shahed
 
 ### 💻 CSE Graduate | Frontend Developer | AI & Machine Learning Enthusiast
