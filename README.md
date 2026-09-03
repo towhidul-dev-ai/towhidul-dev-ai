@@ -104,10 +104,7 @@ Here are some areas I'm currently building projects in:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
-</p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=towhidul-dev-ai&show_icons=true&locale=en&layout=compact" alt="towhidul-dev-ai" /></p>
 ---
 
 ## 🎯 2026 Goals
