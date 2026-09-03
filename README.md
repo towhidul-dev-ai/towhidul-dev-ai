@@ -144,17 +144,6 @@ Currently building projects around:
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhidul-dev-ai&layout=compact&theme=default"
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 
 ## 🎯 2026 Goals
