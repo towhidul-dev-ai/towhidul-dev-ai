@@ -142,6 +142,20 @@ Currently building projects around:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai&theme=dark" alt="GitHub Streak" />
 </p>
 
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    width="55%"
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
 
 ## 🎯 2026 Goals
 
