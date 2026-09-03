@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&height=50&lines=Frontend+Developer;Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Building+Web+Apps"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&height=50&lines=Frontend+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Building+Web+Apps"
     alt="Typing SVG"
   />
 </p>
@@ -128,23 +128,33 @@ Currently building projects around:
 </p>
 
 ---
+### 📊 GITHUB STATISTICS & ANALYSIS:
 
-# 📊 GitHub Statistics
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🎯 2026 Goals
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+- 🚀 Become a professional Full-Stack Web Developer
+- ⚛️ Build production-ready React & Next.js applications
+- 🖥️ Strengthen Node.js backend development skills
+- 🗄️ Improve PostgreSQL and database design skills
+- 🧠 Improve problem-solving and algorithmic thinking
+- 🌍 Build and deploy real-world projects
+- 🤝 Contribute to open-source projects
+
+<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
+
+<p align="center"> <i>Let's build something amazing together.</i> </p>
+
