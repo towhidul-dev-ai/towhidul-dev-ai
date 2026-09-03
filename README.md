@@ -1,21 +1,25 @@
-<!-- ======================= BANNER ======================= -->
+<!-- ====================================================== -->
+<!--                    PROFILE BANNER                      -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img 
-    src="./assets/Developer.png" 
-    alt="Towhidul Islam Shahed - Frontend Developer" 
+  <img
+    src="./assets/Developer.png"
+    alt="Towhidul Islam Shahed - Frontend Developer"
     width="100%"
   />
 </p>
 
-<!-- ======================= INTRO ======================= -->
+<!-- ====================================================== -->
+<!--                       INTRO                            -->
+<!-- ====================================================== -->
 
 <h1 align="center">
   Hi 👋, I'm Towhidul Islam Shahed
 </h1>
 
 <p align="center">
-  <img 
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=700&height=50&lines=Frontend+Developer;Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Building+Web+Apps"
     alt="Typing SVG"
   />
@@ -65,6 +69,7 @@ I'm currently focusing on **Frontend Development, React, TypeScript, and modern 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ## 🤖 AI & Machine Learning
@@ -90,8 +95,8 @@ I'm currently focusing on **Frontend Development, React, TypeScript, and modern 
 - 🌐 Building responsive and modern web applications
 - ⚛️ Learning and building projects with React
 - 📘 Improving my TypeScript and JavaScript skills
-- 🎨 Creating modern user interfaces with Tailwind CSS
-- 💻 Developing my Software Engineering skills
+- 🎨 Creating modern interfaces with Tailwind CSS
+- 💻 Improving my Software Engineering skills
 - 🤖 Exploring practical applications of AI and Machine Learning
 - 🌍 Building and deploying real-world projects
 
@@ -127,8 +132,8 @@ Currently building projects around:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
   />
 </p>
@@ -138,53 +143,8 @@ Currently building projects around:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 🐍 My Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Become a professional Full-Stack Web Developer
-- ⚛️ Build production-ready React & Next.js applications
-- 🖥️ Strengthen Node.js backend development skills
-- 🗄️ Improve PostgreSQL and database design skills
-- 🧠 Improve problem-solving and algorithmic thinking
-- 🌍 Build and deploy real-world projects
-- 🤝 Contribute to open-source projects
-- 📚 Continuously learn new technologies
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Let's build something amazing together.</i>
 </p>
