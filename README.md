@@ -1,73 +1,114 @@
-# Hi 👋, I'm Towhidul Islam Shahed  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Towhidul Islam Shahed
+
+### 💻 CSE Graduate | Frontend Developer | AI & Machine Learning Enthusiast
+
+I'm a Computer Science graduate passionate about building modern, user-friendly web applications and continuously improving my software engineering skills. I'm currently focusing on **Frontend Development, React, TypeScript, and modern web technologies**, while also exploring **AI and Machine Learning**.
 
 ---
 
-## 👨💻 About Me  
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **AI, Machine Learning, Web Development, and Software Engineering projects.**
-
-- 🌱 I’m currently learning **React, Next.JS, TypeScript, Tailwind CSS, and modern frontend development.**
-
-- 👯 I’m looking to collaborate on **open-source projects related to AI, Machine Learning, Web Development, and Software Engineering.**
-
-- 🤝 I’m looking for help with **Frontend Development, Software Engineering, and open-source projects.**
-
-- 💬 Ask me about **Frontend Development, React, JavaScript, TypeScript, AI, and Software Engineering.**
-
-- 📫 How to reach me **shahedtowhidulislam6@gmail.com Email me or connect with me on Social Media..**
-
-- ⚡ Fun fact **I started my journey in Computer Science and now I’m passionate about building things for the web.**
-
+- 🔭 I'm currently working on **Frontend Development, AI, and Software Engineering projects**.
+- 🌱 I'm currently learning **React, Next.js, TypeScript, Tailwind CSS, and modern frontend development**.
+- 👯 I'm looking to collaborate on **open-source projects, web applications, and software engineering projects**.
+- 🤝 I'm looking for help with **Frontend Development, Software Engineering, and open-source projects**.
+- 💬 Ask me about **JavaScript, React, TypeScript, Frontend Development, AI, and Software Engineering**.
+- 📫 How to reach me: **shahedtowhidulislam6@gmail.com**
+- ⚡ Fun fact: **I enjoy learning new technologies and turning ideas into real-world projects.**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### 🎨 Frontend
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### ⚙️ Backend & Database
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Connect With Me  
+### 🤖 AI & Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=python&logoColor=white)
 
----
+### 🔧 Tools
 
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## 🚀 What I'm Working On
 
+- 🌐 Building responsive and modern web applications
+- ⚛️ Learning and building projects with React
+- 📘 Improving my TypeScript and JavaScript skills
+- 🎨 Creating user interfaces with Tailwind CSS
+- 💻 Developing my Software Engineering skills
+- 🤖 Exploring practical applications of AI and Machine Learning
 
+---
 
-## Repository Stats & Streak
+## 📌 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=towhidul-dev-ai&show_icons=true&locale=en&layout=compact" alt="towhidul-dev-ai" /></p>
+> 🚀 More projects coming soon!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=towhidul-dev-ai&show_icons=true&locale=en" alt="towhidul-dev-ai" /></p>
+Here are some areas I'm currently building projects in:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai&" alt="towhidul-dev-ai" /></p>
+- 🌐 **Frontend Development**
+- ⚛️ **React Applications**
+- 💻 **Software Engineering**
+- 🤖 **AI & Machine Learning**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uncommonboy.shahed.a)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahedtowhidulislam6@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=towhidul-dev-ai&show_icons=true&locale=en" alt="Towhidul's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhidul-dev-ai&layout=compact&locale=en" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai" alt="GitHub Streak" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=towhidul-dev-ai&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.  
+I'm always open to learning, collaborating, and building something interesting. 🚀
