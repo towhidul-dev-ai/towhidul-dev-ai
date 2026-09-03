@@ -4,13 +4,21 @@
 ---
 
 ## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-I’m currently learning **React, Next.JS, TypeScript, Tailwind CSS, and modern frontend development.
-I’m looking to collaborate on **open-source projects related to AI, Machine Learning, Web Development, and Software Engineering.
-I’m looking for help with **Frontend Development, Software Engineering, and open-source projects.
-Ask me about **Frontend Development, React, JavaScript, TypeScript, AI, and Software Engineering.
-How to reach me **shahedtowhidulislam6@gmail.com Email me or connect with me on Social Media.
-Fun fact I started my journey in Computer Science, and now I’m passionate about building things for the web.
+
+- 🔭 I’m currently working on **AI, Machine Learning, Web Development, and Software Engineering projects.**
+
+- 🌱 I’m currently learning **React, Next.JS, TypeScript, Tailwind CSS, and modern frontend development.**
+
+- 👯 I’m looking to collaborate on **open-source projects related to AI, Machine Learning, Web Development, and Software Engineering.**
+
+- 🤝 I’m looking for help with **Frontend Development, Software Engineering, and open-source projects.**
+
+- 💬 Ask me about **Frontend Development, React, JavaScript, TypeScript, AI, and Software Engineering.**
+
+- 📫 How to reach me **shahedtowhidulislam6@gmail.com Email me or connect with me on Social Media..**
+
+- ⚡ Fun fact **I started my journey in Computer Science and now I’m passionate about building things for the web.**
+
 
 ---
 
