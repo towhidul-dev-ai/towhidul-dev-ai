@@ -104,7 +104,11 @@ Here are some areas I'm currently building projects in:
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=towhidul-dev-ai&show_icons=true&locale=en&layout=compact" alt="towhidul-dev-ai" /></p>
+
+| <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=tarekhasan-dev&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=tarekhasan-dev&theme=flag-india&hide_border=false" /></a> |
+
+
+
 ---
 
 ## 🎯 2026 Goals
