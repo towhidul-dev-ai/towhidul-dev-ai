@@ -94,7 +94,13 @@ Here are some areas I'm currently building projects in:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Analysis
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <p align="center">
@@ -103,15 +109,16 @@ Here are some areas I'm currently building projects in:
 
 ---
 
-## 👀 Profile Views
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=towhidul-dev-ai&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+- 🚀 Become a professional Full-Stack Web Developer
+- ⚛️ Build production-ready React & Next.js applications
+- 🖥️ Strengthen Node.js backend development skills
+- 🗄️ Improve PostgreSQL and database design skills
+- 🧠 Improve problem-solving and algorithmic thinking
+- 🌍 Build and deploy real-world projects
+- 🤝 Contribute to open-source projects
 
----
+<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
 
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.  
-I'm always open to learning, collaborating, and building something interesting. 🚀
+<p align="center"> <i>Let's build something amazing together.</i> </p>
