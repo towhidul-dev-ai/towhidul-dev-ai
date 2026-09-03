@@ -67,3 +67,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=towhidul-dev-ai&show_icons=true&locale=en" alt="towhidul-dev-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai&" alt="towhidul-dev-ai" /></p> 
+
+## Repository Stats & Streak
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=towhidul-dev-ai&show_icons=true&locale=en&layout=compact" alt="towhidul-dev-ai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=towhidul-dev-ai&show_icons=true&locale=en" alt="towhidul-dev-ai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towhidul-dev-ai&" alt="towhidul-dev-ai" /></p>
